@@ -10,7 +10,7 @@ The file receives 4 params:
 - Number of clusters (int)
 - Number of iterations (int)
 
-#Python code
+# Python code
 A repo to a different of this project on python
 
 link: https://github.com/haison19952013/t-drive

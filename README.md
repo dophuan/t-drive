@@ -11,6 +11,6 @@ The file receives 4 params:
 - Number of iterations (int)
 
 # Python code
-A repo to a different of this project on python
+A repo to a different version of this project on python
 
 link: https://github.com/haison19952013/t-drive

@@ -1,4 +1,4 @@
-# t-drive
+# T-drive
 A repo to commit source code of the final project of Big Data Analysis - PNU 2020-2021. 
 
 Import to Netbeans then build the project. The build file will be in `dist` folder.
@@ -10,7 +10,5 @@ The file receives 4 params:
 - Number of clusters (int)
 - Number of iterations (int)
 
-# Python code
-A repo to a different version of this project on python
-
-link: https://github.com/haison19952013/t-drive
+# Preprocessed data
+Download link: shorturl.at/wAHMZ

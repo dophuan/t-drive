@@ -1,0 +1,22 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: Final_project.aux
+The style file: IEEEtran.bst
+Database file #1: bib.bib
+Warning--entry type for "zheng2011t-drive" isn't style-file defined
+--line 65 of file bib.bib
+You're missing a field name---line 90 of file bib.bib
+ :  
+ :  = {https://doi.org/10.1145/1869790.1869807},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Repeated entry---line 259 of file bib.bib
+ : @inproceedings{santani2008spatio
+ :                                 ,
+I'm skipping whatever remains of this entry
+-- IEEEtran.bst version 1.14 (2015/08/26) by Michael Shell.
+-- http://www.michaelshell.org/tex/ieeetran/bibtex/
+-- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+Warning--empty booktitle in 10.1145/1869790.1869807
+Warning--empty journal in agarwal2004comparison
+
+Done.
+(There were 2 error messages)
